@@ -1,0 +1,3 @@
+[submodule "extern/Bolero"]
+	path = extern/Bolero
+	url = https://github.com/KaindraDjoemena/Bolero.git
